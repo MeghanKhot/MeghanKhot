@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me meghankhot1999@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 MeghanKhot/MeghanKhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
