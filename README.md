@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeghanKhot
-- Currently working as Software Developer 
+- 💻 Currently working as Software Developer 
 - 👀 I’m interested in Data Analyst / Data Engineer
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
